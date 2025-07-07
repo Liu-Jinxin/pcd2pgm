@@ -1,6 +1,6 @@
 pcd2pgm:
   ros__parameters:
-    pcd_file: /home/jinxin/Desktop/Mobile_manipulator/src/FAST_LIO_PLUS_Ros2/PCD/scans.pcd
+    pcd_file: /home/jinxin/Desktop/Code_space/Mobile_manipulator/src/FAST_LIO_PLUS_Ros2/PCD/S2B2.pcd
     odom_to_lidar_odom: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
     # odom_to_lidar_odom: [-0.16, 0.0, -0.18, -0.523599, 0.0, -1.5707963]
     flag_pass_through: false
@@ -8,5 +8,5 @@ pcd2pgm:
     map_topic_name: map
     thre_radius: 0.1
     thre_z_max: 2.0
-    thre_z_min: -0.4
+    thre_z_min: -0.8
     thres_point_count: 10
