@@ -1,6 +1,6 @@
 pcd2pgm:
   ros__parameters:
-    pcd_file: /home/jinxin/Mobile_manipulator/src/FAST_LIO_PLUS_Ros2/PCD/air_tank.pcd
+    pcd_file: /home/jinxin/Mobile_manipulator/src/FAST_LIO_PLUS_Ros2/PCD/stelab.pcd
     odom_to_lidar_odom: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
     # odom_to_lidar_odom: [-0.16, 0.0, -0.18, -0.523599, 0.0, -1.5707963]
     flag_pass_through: false
